@@ -5,7 +5,7 @@ import numpy as np
 JPG_PATH = 'sara.jpg'
 PNG_PATH = 'slash.png'
 PNG_RESIZED_DIMENSION = 32
-OUTPUT_JPG_PATH = 'sara_slash.jpg'
+OUTPUT_JPG_PATH = 'sara_slash.jpg.jpg'
 
 # START OF THE SCRIPT 'my_overlay'
 img = np.array(Image.open(JPG_PATH))
